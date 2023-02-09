@@ -1,4 +1,4 @@
-# PythonDashApp
+# Python DashApp
 
 Create application using Python DASH framework and deploy it on Azure Web App Service.
 
